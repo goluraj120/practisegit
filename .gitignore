@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 venv/
+Git_and_GitHub_Blueprint.pdf
 # C extensions
 *.so
 
